@@ -1,5 +1,5 @@
 <a href="https://github.com/Jayasri-K-N">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0e0f11,50:3a3d42,100:8b9098&height=200&section=header&text=Jayasri%20K&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Aspiring%20Cloud%20%26%20DevOps%20Engineer%20%7C%20AI%20%26%20Data%20Science%20Student&descAlignY=58&descSize=17" />
+  <img width="100%" src="assets/banner.svg" alt="Jayasri K" />
 </a>
 
 <div align="center">
@@ -64,27 +64,16 @@ flowchart LR
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <a href="https://github.com/Jayasri-K-N">
-    <img height="175" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Jayasri-K-N&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0e0f11&title_color=e4e7ec&icon_color=9aa1ad&text_color=c9d1d9&border_radius=12" />
-  </a>
-  <a href="https://github.com/Jayasri-K-N">
-    <img height="175" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Jayasri-K-N&layout=compact&theme=dark&hide_border=true&bg_color=0e0f11&title_color=e4e7ec&text_color=c9d1d9&langs_count=8&border_radius=12" />
-  </a>
-</div>
+## 📊 GitHub Activity
 
 <div align="center">
   <img width="70%" src="https://streak-stats.demolab.com?user=Jayasri-K-N&theme=dark&hide_border=true&background=0E0F11&ring=9AA1AD&fire=FFFFFF&currStreakLabel=E4E7EC&sideLabels=9AA1AD&dates=8B9098&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0E0F11&border_radius=12" />
 </div>
 
----
-
-## 📈 Contribution Graph
+<br/>
 
 <div align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Jayasri-K-N&theme=react-dark&bg_color=0e0f11&color=e4e7ec&line=9aa1ad&point=ffffff&area=true&hide_border=true&radius=8" />
+  <img width="95%" src="https://ghchart.rshah.org/9aa1ad/Jayasri-K-N" alt="Contribution chart" />
 </div>
 
 ---
@@ -164,4 +153,4 @@ flowchart LR
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0e0f11,50:3a3d42,100:8b9098&height=130&section=footer&animation=twinkling" />
+<img width="100%" src="assets/footer.svg" alt="" />
