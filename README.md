@@ -1,5 +1,5 @@
 <a href="https://github.com/Jayasri-K-N">
-  <img width="100%" src="assets/banner.svg" alt="Jayasri K" />
+  <img width="100%" src="assests/banner.svg" alt="Jayasri K" />
 </a>
 
 <div align="center">
@@ -12,7 +12,7 @@
 
 ## ☁️ About Me
 
-<img align="right" width="360" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<img align="right" width="360" src="assests/coder-girl.svg" alt="Girl coding on two monitors"/>
 
 ```python
 class JayasriK:
@@ -153,4 +153,4 @@ flowchart LR
 
 <br/>
 
-<img width="100%" src="assets/footer.svg" alt="" />
+<img width="100%" src="assests/footer.svg" alt="" />
